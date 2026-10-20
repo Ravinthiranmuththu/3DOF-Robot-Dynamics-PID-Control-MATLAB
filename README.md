@@ -8,7 +8,7 @@ An academic robotics and control-systems assignment developed for **EE7215/EC721
 
 ## Demonstration
 
-[Watch the project showcase (MP4)](Media/Robotics_Showcase.mp4)
+[Watch the project showcase (MP4)](Robotics_Showcase.mp4)
 
 The video is an edited overview. It should not be treated as quantitative proof of controller performance; inspect the model scope outputs and reproduce the simulations to assess tracking and disturbance rejection.
 
@@ -16,11 +16,11 @@ The video is an edited overview. It should not be treated as quantitative proof 
 
 | Path | Description |
 | --- | --- |
-| `MATLAB/PartA.m` | Symbolic kinematics, Jacobian, energies, and Euler–Lagrange derivation |
-| `Simulink/PartB.slx` | PID-based **joint-space position** tracking |
-| `Simulink/PartC.slx` | PID-based **task-space position** tracking |
-| `Simulink/PartD.slx` | PID-based **joint-space velocity** tracking |
-| `Media/Robotics_Showcase.mp4` | Short edited simulation showcase |
+| `PartA.m` | Symbolic kinematics, Jacobian, energies, and Euler–Lagrange derivation |
+| `PartB.slx` | PID-based **joint-space position** tracking |
+| `PartC.slx` | PID-based **task-space position** tracking |
+| `PartD.slx` | PID-based **joint-space velocity** tracking |
+| `Robotics_Showcase.mp4` | Short edited simulation showcase |
 
 ## Technical overview
 
