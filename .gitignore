@@ -1,0 +1,24 @@
+# MATLAB / Simulink generated output
+slprj/
+**/slprj/
+*.slxc
+*.asv
+*.autosave
+*.m~
+*.mex*
+*.p
+*.fig~
+*.log
+*.diary
+*.bak
+*.tmp
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+# MATLAB generated code and caches
+codegen/
+simulink_cache/
+*_grt_rtw/
+*_ert_rtw/
+*.mexa64
